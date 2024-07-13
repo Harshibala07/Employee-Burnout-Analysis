@@ -1,0 +1,1 @@
+This project aims to analyze employee burnout and predict the level of stress an employee can bear. The analysis will be based on factors such as employee details (employee ID, date of joining, gender, company type), work environment (WFH setup, resource allocation), and mental fatigue score.
